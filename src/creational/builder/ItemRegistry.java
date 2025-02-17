@@ -16,8 +16,6 @@ public class ItemRegistry {
 
         addToItemRegistry(item1);
         addToItemRegistry(item2);
-
-
     }
 
     public static void addToItemRegistry(StoreItem item){

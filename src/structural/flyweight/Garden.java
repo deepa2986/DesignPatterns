@@ -8,7 +8,7 @@ public class Garden {
 //        var sunFlower2 = new Flower("SunFlower");
 //        var sunFlower3 = new Flower("SunFlower");
 
-         var sunFlower1 = FlowerFactory.createFlower("Sunflower");
+        var sunFlower1 = FlowerFactory.createFlower("Sunflower");
         var sunFlower2 = FlowerFactory.createFlower("Sunflower");
         var sunFlower3 = FlowerFactory.createFlower("Sunflower");
 
