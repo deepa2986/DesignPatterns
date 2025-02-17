@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="71238297-a97a-4c7a-a5a1-ebd02098e2be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/builder/ItemRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/ItemRegistry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structural/flyweight/Garden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/flyweight/Garden.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +39,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Deepa G K/Programs/DesignPatterns&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.behavioral.ineterpret.App">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral.chainofresponsibility.App" />
+      <option name="MAIN_CLASS_NAME" value="behavioral.observer.App" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioral.chainofresponsibility.*" />
+          <option name="PATTERN" value="behavioral.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,38 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structural.proxy.MusicPlayer" />
+    <configuration name="DocumentOverview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.memento.DocumentOverview" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structural.proxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MusicPlayerOptimised" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structural.proxy.MusicPlayerOptimised" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="structural.proxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OnlineStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral.command.OnlineStore" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="behavioral.command.*" />
+          <option name="PATTERN" value="behavioral.memento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,13 +79,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="behavioral.iterator.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.iterator.App" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral.iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="behavioral.mediator.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.mediator.App" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral.mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.behavioral.ineterpret.App" />
-        <item itemvalue="Application.OnlineStore" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.MusicPlayerOptimised" />
-        <item itemvalue="Application.MusicPlayer" />
+        <item itemvalue="Application.DocumentOverview" />
+        <item itemvalue="Application.behavioral.mediator.App" />
+        <item itemvalue="Application.behavioral.iterator.App" />
+        <item itemvalue="Application.behavioral.ineterpret.App" />
       </list>
     </recent_temporary>
   </component>
